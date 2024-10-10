@@ -5,7 +5,7 @@ export default function Dashboard() {
 
   const user = {
     nome: "Gilliard",
-    idade: 40
+    idade: 31
   }
   
   return (
